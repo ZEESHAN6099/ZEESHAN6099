@@ -299,8 +299,8 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 
 <td align="center" width="150">
   <b>📝 Total Commits</b><br/><br/>
-  <b style="font-size:28px;color:#818CF8">806</b><br/>
-  <sub>768 previous + 38 @ZEESHAN6099</sub>
+  <b style="font-size:28px;color:#818CF8">803</b><br/>
+  <sub>768 previous + 35 @ZEESHAN6099</sub>
 </td>
 
 <td align="center" width="150">
