@@ -151,14 +151,14 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/angular" width="36" height="36" alt="Angular"/><br/><sub><b>Angular</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/angular/dd0031" width="36" height="36" alt="Angular"/><br/><sub><b>Angular</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/nextdotjs" width="36" height="36" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/nextdotjs/707070" width="36" height="36" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/vuedotjs" width="36" height="36" alt="Vue.js"/><br/><sub><b>Vue.js</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/css3" width="36" height="36" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/threedotjs/3B6B75" width="36" height="36" alt="Three.js"/><br/><sub><b>Three.js</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub></td>
@@ -185,7 +185,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/dotnet" width="36" height="36" alt=".NET"/><br/><sub><b>.NET</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/nestjs" width="36" height="36" alt="NestJS"/><br/><sub><b>NestJS</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/express" width="36" height="36" alt="Express"/><br/><sub><b>Express</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/express/32228A" width="36" height="36" alt="Express"/><br/><sub><b>Express</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Python"/><br/><sub><b>Python</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/django" width="36" height="36" alt="Django"/><br/><sub><b>Django</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/fastapi" width="36" height="36" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
@@ -244,7 +244,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/githubactions" width="36" height="36" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/jenkins" width="36" height="36" alt="Jenkins"/><br/><sub><b>Jenkins</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/vercel" width="36" height="36" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/vercel/ABABAB" width="36" height="36" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/netlify" width="36" height="36" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
 </tr>
 </table>
@@ -256,7 +256,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 <table>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/github/E6DFDF" width="36" height="36" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/gitlab" width="36" height="36" alt="GitLab"/><br/><sub><b>GitLab</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/bitbucket" width="36" height="36" alt="Bitbucket"/><br/><sub><b>Bitbucket</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
@@ -271,7 +271,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/yarn" width="36" height="36" alt="Yarn"/><br/><sub><b>Yarn</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/stripe" width="36" height="36" alt="Stripe"/><br/><sub><b>Stripe</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/paypal" width="36" height="36" alt="PayPal"/><br/><sub><b>PayPal</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/notion" width="36" height="36" alt="Notion"/><br/><sub><b>Notion</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/notion/40288F" width="36" height="36" alt="Notion"/><br/><sub><b>Notion</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/trello" width="36" height="36" alt="Trello"/><br/><sub><b>Trello</b></sub></td>
 </tr>
 </table>
