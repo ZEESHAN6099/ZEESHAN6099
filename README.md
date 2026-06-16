@@ -52,7 +52,7 @@ I build **secure, scalable web applications** that turn complex ideas into produ
 
 <br/>
 
-### 🌐 Full interactive portfolio (same as localhost:3000)
+### 🌐 Full interactive portfolio 
 
 [![Open Live Portfolio](https://img.shields.io/badge/Open_Live_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github-portfolio-rouge.vercel.app/)
 
