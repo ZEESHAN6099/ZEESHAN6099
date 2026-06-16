@@ -220,7 +220,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/mariadb" width="36" height="36" alt="MariaDB"/><br/><sub><b>MariaDB</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/icons?i=dynamodb" width="36" height="36" alt="DynamoDB"/><br/><sub><b>DynamoDB</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=dynamodb" width="36" height="36" alt="DynamoDB"/><br/><sub><b>DynamoDB</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/elasticsearch" width="36" height="36" alt="Elasticsearch"/><br/><sub><b>Elasticsearch</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/prisma" width="36" height="36" alt="Prisma"/><br/><sub><b>Prisma</b></sub></td>
 </tr>
@@ -233,8 +233,8 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 <table>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/docker" width="36" height="36" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/icons?i=aws" width="36" height="36" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/icons?i=azure" width="36" height="36" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/googlecloud" width="36" height="36" alt="GCP"/><br/><sub><b>GCP</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/kubernetes" width="36" height="36" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/linux" width="36" height="36" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
