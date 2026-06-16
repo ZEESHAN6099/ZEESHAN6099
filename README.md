@@ -158,7 +158,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/threedotjs/3B6B75" width="36" height="36" alt="Three.js"/><br/><sub><b>Three.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/icons?i=css" width="36" height="36" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub></td>
@@ -172,7 +172,7 @@ A custom-built portfolio showcasing my projects, tech stack, and freelance journ
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/jquery" width="36" height="36" alt="jQuery"/><br/><sub><b>jQuery</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/threedotjs" width="36" height="36" alt="Three.js"/><br/><sub><b>Three.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/threedotjs/3B6B75" width="36" height="36" alt="Three.js"/><br/><sub><b>Three.js</b></sub></td>
 </tr>
 </table>
 
