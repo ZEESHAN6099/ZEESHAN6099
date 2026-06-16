@@ -59,6 +59,7 @@ I build **secure, scalable web applications** that turn complex ideas into produ
 <br/>
 
 <!-- Social badges -->
+[![Live Portfolio](https://img.shields.io/badge/%F0%9F%9A%80_Live_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github-portfolio-rouge.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZEESHAN6099)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-khan-17476534b)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01076c81eb8945f1d4)
